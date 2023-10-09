@@ -482,7 +482,6 @@
   rss: https://brunch.co.kr/rss/@@c7um
   facebook: https://www.facebook.com/lab4all
   home: https://modulabs.co.kr/
-  tistory: https://www.whydsp.org/
 - name: 모두의연구소 커뮤니티
   facebook: https://www.facebook.com/groups/modulabs/
 - name: 모여서 각자 코딩하는 모임
@@ -1076,6 +1075,10 @@
   facebook: https://www.facebook.com/acupofcode/
 - name: 코딩인카페
   facebook: https://www.facebook.com/codingincafe/
+- name: 코멘토
+  blog: https://developer.comento.kr
+  github: https://github.com/comento
+  rss: https://developer.comento.kr/rss.xml
 - name: 컴투스
   blog: https://on.com2us.com/today/tech/
   rocketpunch: https://www.rocketpunch.com/companies/geimbilkeomtuseu
@@ -1102,11 +1105,6 @@
 - name: ㅍㅍㅅㅅ 테크
   blog: https://ppss.kr/archives/category/tech
   rss: https://ppss.kr/archives/category/tech/feed
-- name: 파비
-  blog: https://blog.pabii.co.kr/
-  rss: https://blog.pabii.co.kr/feed/
-  description: Data Science
-  home: https://pabii.co.kr/
 - name: 파이썬 처음처럼
   kakaotalk: https://open.kakao.com/o/gG6kgabb
 - name: 파워빌더 커뮤니티(PBExpertClub)
